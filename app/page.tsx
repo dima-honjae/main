@@ -34,17 +34,19 @@ export default function Home() {
       <section id="intro" className="mx-auto max-w-6xl px-5 py-24 sm:px-8">
         <p className="text-xs tracking-[0.42em] text-[#d4b483]">MAIN</p>
         <h1 className="mt-4 max-w-3xl font-serif text-4xl leading-tight sm:text-6xl">
-          익숙한 전투 속,
-          <br />
-          낯선 자신을 마주하다
+          익숙한 전투 속, 낯선 자신을 마주하다
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-8 text-white/72">
         나는 사회의 요구에 맞춰 살아가고 있는 걸까?
+        <br/>
         아니면 내가 진정으로 원하는 모습대로 살아가고 있는 걸까?
         
         타인의 기대에 부응하기 위해 자아를 바꾸고,
+        <br/>
         사회가 정해 놓은 기준에 맞춰 살아가는 것이 당연해진 지금,
+        <br/>
         여러분은 과연 자신이 원하는 모습대로 살아가고 있다고 당당히 답할 수 있을까요?
+        <br/>
         
         숨겨진 욕망과 자아가 뒤섞이는 혼재의 세계 속에서 그 답을 찾아보시길 바랍니다.
         </p>

@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:"/main/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/main/_next/static/chunks/3w8g_b1szcdkf.js"
+c:I[70119,["$2","$b"],"Header"]
+d:I[22016,["$2","$b"],""]
+16:"ViewportBoundary"
+17:I[97367,["$2"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$2"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$2"],"IconMark"]
+:HL["/main/_next/static/chunks/36-jr29-d38qv.css","style"]
+:HL["/main/_next/static/chunks/2md3cp4xjpeli.css","style"]
+:HL["/main/_next/static/chunks/1xd1toj8gbbji.css","style"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"site-bg min-h-screen text-white","children":[["$","$Lc",null,{}],["$","main",null,{"className":"mx-auto max-w-6xl px-5 pb-24 pt-32 sm:px-8","children":[["$","p",null,{"className":"text-xs tracking-[0.42em] text-[#d4b483]","children":"EXHIBITION"}],["$","h1",null,{"className":"mt-4 font-serif text-4xl tracking-wide sm:text-6xl","children":"전시 정보"}],["$","p",null,{"className":"mt-6 max-w-2xl text-base leading-8 text-white/72 sm:text-lg","children":"혼재는 브라우저에서 바로 관람하는 온라인 전시입니다. 상단 메뉴가 전시실 사이의 문입니다."}],["$","div",null,{"className":"mt-12","children":[["$","dl",null,{"className":"divide-y divide-white/10 border border-white/10","children":[["$","div","전시명",{"className":"grid gap-2 px-5 py-5 sm:grid-cols-[140px_1fr] sm:gap-6","children":[["$","dt",null,{"className":"text-sm tracking-wide text-[#d4b483]","children":"전시명"}],["$","dd",null,{"className":"text-white/85","children":"혼재"}]]}],["$","div","형식",{"className":"grid gap-2 px-5 py-5 sm:grid-cols-[140px_1fr] sm:gap-6","children":[["$","dt",null,{"className":"text-sm tracking-wide text-[#d4b483]","children":"형식"}],["$","dd",null,{"className":"text-white/85","children":"온라인 전시"}]]}],["$","div","관람",{"className":"grid gap-2 px-5 py-5 sm:grid-cols-[140px_1fr] sm:gap-6","children":[["$","dt",null,{"className":"text-sm tracking-wide text-[#d4b483]","children":"관람"}],["$","dd",null,{"className":"text-white/85","children":"상시, 별도의 예약 없이 둘러볼 수 있습니다."}]]}],["$","div","구성",{"className":"grid gap-2 px-5 py-5 sm:grid-cols-[140px_1fr] sm:gap-6","children":[["$","dt",null,{"className":"text-sm tracking-wide text-[#d4b483]","children":"구성"}],["$","dd",null,{"className":"text-white/85","children":"메인, 세계관, 캐릭터, 트레일러, 팀, 전시 정보"}]]}]]}],["$","h2",null,{"className":"mt-14 font-serif text-3xl","children":"전시실"}],["$","div",null,{"className":"mt-6 grid gap-4 sm:grid-cols-2","children":[["$","$Ld","/world",{"href":"/world","className":"border border-white/10 bg-white/[0.03] p-6 transition-colors hover:border-[#d4b483]","children":[["$","p",null,{"className":"font-serif text-2xl","children":"세계관"}],["$","p",null,{"className":"mt-2 text-white/65","children":"세 도시가 겹치는 규칙"}]]}],["$","$Ld","/characters",{"href":"/characters","className":"border border-white/10 bg-white/[0.03] p-6 transition-colors hover:border-[#d4b483]","children":["$Le","$Lf"]}],"$L10","$L11"]}]]}]]}],"$L12"]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$6"}}]]
+7:[["children",{"s":"exhibition","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/main/_next/static/chunks/36-jr29-d38qv.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/main/_next/static/chunks/2md3cp4xjpeli.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/main/_next/static/chunks/1xd1toj8gbbji.css","precedence":"next"}],["$","script","script-0",{"src":"/main/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"ko","className":"RdyB3q_variable DKUvpq_variable h-full","children":["$","body",null,{"className":"min-h-full bg-[#07080c] antialiased","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"전시 정보 | 혼재"}],["$","meta","1",{"name":"description","content":"혼재 온라인 전시 관람 안내"}],["$","link","2",{"rel":"icon","href":"/main/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1b","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$6"}},"a":"$@1d","u":"$@1e","b":"KrEgXymf5vguF64zv3Vcz"}
+1f:I[97367,["$2"],"OutletBoundary"]
+e:["$","p",null,{"className":"font-serif text-2xl","children":"캐릭터"}]
+f:["$","p",null,{"className":"mt-2 text-white/65","children":"문과 강과 등불을 맡은 사람들"}]
+10:["$","$Ld","/trailer",{"href":"/trailer","className":"border border-white/10 bg-white/[0.03] p-6 transition-colors hover:border-[#d4b483]","children":[["$","p",null,{"className":"font-serif text-2xl","children":"트레일러"}],["$","p",null,{"className":"mt-2 text-white/65","children":"영상 「겹쳐진 하루」"}]]}]
+11:["$","$Ld","/team",{"href":"/team","className":"border border-white/10 bg-white/[0.03] p-6 transition-colors hover:border-[#d4b483]","children":[["$","p",null,{"className":"font-serif text-2xl","children":"팀"}],["$","p",null,{"className":"mt-2 text-white/65","children":"전시를 나눈 네 가지 역할"}]]}]
+12:["$","footer",null,{"className":"border-t border-white/10","children":["$","nav",null,{"className":"mx-auto flex max-w-6xl flex-wrap gap-x-6 gap-y-3 px-5 py-8 text-sm text-white/60 sm:px-8","children":[["$","$Ld","/",{"href":"/","className":"hover:text-white","children":"메인"}],["$","$Ld","/world",{"href":"/world","className":"hover:text-white","children":"세계관"}],["$","$Ld","/characters",{"href":"/characters","className":"hover:text-white","children":"캐릭터"}],["$","$Ld","/trailer",{"href":"/trailer","className":"hover:text-white","children":"트레일러"}],["$","$Ld","/team",{"href":"/team","className":"hover:text-white","children":"팀"}],["$","$Ld","/exhibition",{"href":"/exhibition","className":"hover:text-white","children":"전시 정보"}]]}]}]
+13:["$","script","script-0",{"src":"/main/_next/static/chunks/3w8g_b1szcdkf.js","async":true}]
+14:["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+6:300
+20:null
+1e:true
+6:C
+1d:0
+8:"$undefined"
+5:"$undefined"
+1c:"$undefined"
+15:"$undefined"

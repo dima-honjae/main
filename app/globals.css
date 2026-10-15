@@ -1,6 +1,26 @@
 @import "tailwindcss";
 
+@theme inline {
+  --font-sans: var(--font-noto-sans), "Noto Sans KR", sans-serif;
+  --font-serif: var(--font-noto-serif), "Noto Serif KR", serif;
+}
+
 html,
 body {
-  background: #000;
+  background: #07080c;
+  color: #fff;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+.site-bg {
+  background:
+    radial-gradient(ellipse at top, rgba(90, 122, 142, 0.28), transparent 46%),
+    #07080c;
 }

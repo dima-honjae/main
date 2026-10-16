@@ -11,19 +11,21 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <div className="bg-[#07080c] text-white">
-      <section className="relative min-h-screen overflow-hidden">
-        <HeroScene />
+      <section className="bg-[#07080c]">
         <Header />
-
-        <Link
-          href="/trailer"
-          aria-label="트레일러 보기"
-          className="absolute left-1/2 top-[46%] z-20 grid size-[88px] -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full border border-white/80 bg-black/25 backdrop-blur-sm transition-transform hover:scale-105"
-        >
-          <span className="ml-1 block border-y-[11px] border-l-[18px] border-y-transparent border-l-white" />
-        </Link>
-
-        <div className="absolute inset-x-0 bottom-0 z-20 flex items-center justify-between px-4 py-4 text-[11px] tracking-[0.35em] text-white/70 sm:px-8">
+        <div className="mx-auto w-[min(820px,88vw)] pt-28">
+          <div className="relative">
+            <HeroScene />
+            <Link
+              href="/trailer"
+              aria-label="트레일러 보기"
+              className="absolute left-1/2 top-1/2 z-20 grid size-16 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full border border-white/80 bg-black/30 backdrop-blur-sm transition-transform hover:scale-105"
+            >
+              <span className="ml-1 block border-y-[9px] border-l-[14px] border-y-transparent border-l-white" />
+            </Link>
+          </div>
+        </div>
+        <div className="flex items-center justify-between px-4 py-6 text-[11px] tracking-[0.35em] text-white/70 sm:px-8">
           <span>HONJAE</span>
           <a href="#intro" className="hover:text-white">
             SCROLL
@@ -40,6 +42,7 @@ export default function Home() {
         나는 사회의 요구에 맞춰 살아가고 있는 걸까?
         <br/>
         아니면 내가 진정으로 원하는 모습대로 살아가고 있는 걸까?
+        <br/>
         
         타인의 기대에 부응하기 위해 자아를 바꾸고,
         <br/>

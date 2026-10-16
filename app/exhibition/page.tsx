@@ -16,7 +16,7 @@ const FACTS = [
 
 const ROOMS = [
   { href: "/world", label: "세계관", text: "세 도시가 겹치는 규칙" },
-  { href: "/characters", label: "캐릭터", text: "문과 강과 등불을 맡은 사람들" },
+  { href: "/characters", label: "캐릭터", text: "렌, 스즈네, 드미트리" },
   { href: "/trailer", label: "트레일러", text: "영상 「겹쳐진 하루」" },
   { href: "/team", label: "팀", text: "전시를 나눈 네 가지 역할" },
 ];

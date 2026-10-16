@@ -10,6 +10,12 @@ function normalize(path: string) {
   return path || "/";
 }
 
+function isActive(pathname: string, href: string) {
+  const target = normalize(href);
+  if (target === "/") return pathname === "/";
+  return pathname === target || pathname.startsWith(`${target}/`);
+}
+
 export function Header() {
   const pathname = normalize(usePathname() || "/");
   const [open, setOpen] = useState(false);
@@ -23,7 +29,7 @@ export function Header() {
 
         <nav className="absolute left-1/2 hidden -translate-x-1/2 items-center gap-8 lg:flex">
           {NAV.map((item) => {
-            const active = pathname === normalize(item.href);
+            const active = isActive(pathname, item.href);
             return (
               <Link
                 key={item.href}
@@ -60,7 +66,7 @@ export function Header() {
       {open ? (
         <nav className="border-t border-white/10 bg-black px-4 py-3 lg:hidden">
           {NAV.map((item) => {
-            const active = pathname === normalize(item.href);
+            const active = isActive(pathname, item.href);
             return (
               <Link
                 key={item.href}
